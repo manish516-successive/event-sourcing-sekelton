@@ -1,0 +1,4 @@
+broker: 'rabbit-mq'
+config:
+  url: 'amqp://localhost'
+  queue: 'test'
